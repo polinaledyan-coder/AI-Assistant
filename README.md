@@ -87,4 +87,4 @@
 
 * ссылка на бота в @assistantforperson_bot
 
-Иллюстрация к проекту 
+Иллюстрация к проекту https://github.com/polinaledyan-coder/AI-Assistant/blob/main/телегр2.jpg?raw=true
